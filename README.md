@@ -17,6 +17,8 @@ An elegant, fixed-position navigation menu that dynamically changes style on scr
 - JavaScript
 
 Preview
-![2025-07-01 (1)](https://github.com/user-attachments/assets/ef95687d-6ff5-4d0e-8db3-ea84976c2e8b)
+![ShopEase - Elevate Your Style - Google Chrome 01-07-2025 23_14_42](https://github.com/user-attachments/assets/eb1757c2-5c54-4217-a526-96e6997cc1e0)
+
+
 
 
